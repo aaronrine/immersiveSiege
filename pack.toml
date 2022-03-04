@@ -1,0 +1,13 @@
+name = "Immersive Siege"
+author = "Aaron Rine"
+version = "1.0.0"
+pack-format = "packwiz:1.0.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "b7eb7864227aecb42525d0d7baff0aef79483e7b8d44672b60a0d7e3f0f029ea"
+
+[versions]
+forge = "36.0.0"
+minecraft = "1.16.5"

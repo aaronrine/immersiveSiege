@@ -1,0 +1,13 @@
+name = "Back Tools"
+filename = "BackTools-1.16.5-10.1.0.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3224/955/BackTools-1.16.5-10.1.0.jar"
+hash-format = "murmur2"
+hash = "103125956"
+
+[update]
+[update.curseforge]
+file-id = 3224955
+project-id = 229061

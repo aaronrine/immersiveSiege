@@ -1,0 +1,13 @@
+name = "GooglyEyes "
+filename = "GooglyEyes-1.16.5-10.4.0.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3323/410/GooglyEyes-1.16.5-10.4.0.jar"
+hash-format = "murmur2"
+hash = "2573238913"
+
+[update]
+[update.curseforge]
+file-id = 3323410
+project-id = 252188

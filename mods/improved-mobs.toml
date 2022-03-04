@@ -1,0 +1,13 @@
+name = "Improved Mobs"
+filename = "improvedmobs-1.16.5-1.10.3.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3667/365/improvedmobs-1.16.5-1.10.3.jar"
+hash-format = "murmur2"
+hash = "835523782"
+
+[update]
+[update.curseforge]
+file-id = 3667365
+project-id = 282639

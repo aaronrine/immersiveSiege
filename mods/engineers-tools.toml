@@ -1,0 +1,13 @@
+name = "Engineer's Tools"
+filename = "engineerstools-1.16.5-1.1.7.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3620/297/engineerstools-1.16.5-1.1.7.jar"
+hash-format = "murmur2"
+hash = "2142407353"
+
+[update]
+[update.curseforge]
+file-id = 3620297
+project-id = 319716

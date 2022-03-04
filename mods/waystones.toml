@@ -1,0 +1,13 @@
+name = "Waystones"
+filename = "Waystones_1.16.5-7.6.4.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3515/707/Waystones_1.16.5-7.6.4.jar"
+hash-format = "murmur2"
+hash = "470841790"
+
+[update]
+[update.curseforge]
+file-id = 3515707
+project-id = 245755

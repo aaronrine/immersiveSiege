@@ -21,6 +21,11 @@ hash = "a8533b6ca62944d865ef4b44d102c6d521ad81fcb750d657a17ed0cddb98de48"
 metafile = true
 
 [[files]]
+file = "mods/architectury-forge.toml"
+hash = "717b0b68c4d592e0121978259162b88cd8e20996b9380b7c218808ccce1c5db9"
+metafile = true
+
+[[files]]
 file = "mods/artifacts.toml"
 hash = "d13d8f4bb01d1ddbaa93572a13381cdb6bdde2201107cb57d01d17efd0730d8f"
 metafile = true
@@ -133,6 +138,21 @@ metafile = true
 [[files]]
 file = "mods/forgeendertech.toml"
 hash = "f38eabfbbd86bcc171abe2b6298c5f1326286bfcf82f99ec45f972c65bc9b878"
+metafile = true
+
+[[files]]
+file = "mods/ftb-library-forge.toml"
+hash = "06a5267492aebb712b3981d2dbf1bc3009eca2f9881e79de1b341fcf5cabc651"
+metafile = true
+
+[[files]]
+file = "mods/ftb-teams-forge.toml"
+hash = "ba331169ed09c972be6ce5ac3b35007077c30ccf116a1db618e100e633f9d197"
+metafile = true
+
+[[files]]
+file = "mods/ftb-ultimine-forge.toml"
+hash = "decf19358f33b45f3da295a0c43fa04aece63f728c69f2f1e4af56d0b407b822"
 metafile = true
 
 [[files]]

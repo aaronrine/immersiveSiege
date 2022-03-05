@@ -146,6 +146,11 @@ hash = "8b18e0fc6c6f2b43825f759d5ce94e6e1c942745eca14087fb6c94daddf48bc7"
 metafile = true
 
 [[files]]
+file = "mods/halogen.toml"
+hash = "c77a589c5c172b401c690bb4202788ca9b4c21477f85b16ff61640ede30cb066"
+metafile = true
+
+[[files]]
 file = "mods/hats.toml"
 hash = "e12756643f1b769178261b80071a778c48d91e69fd36a022623ccb52115aacbc"
 metafile = true

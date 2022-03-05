@@ -66,6 +66,11 @@ hash = "e1c06b486de303676e9b35336db571f1045e8af8612e1351868295ca5ec1d727"
 metafile = true
 
 [[files]]
+file = "mods/configured.toml"
+hash = "dd82f77f3991e951dd76e76860ebf4a92457c794538d6b700c90a101d9839f43"
+metafile = true
+
+[[files]]
 file = "mods/controlling.toml"
 hash = "e7ce01821a53f8d2c2fbb6b5ed4484ac08e6b0226753e29f71a1600af333a8ed"
 metafile = true

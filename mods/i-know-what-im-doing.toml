@@ -1,0 +1,13 @@
+name = "I Know What I'm Doing (IKWID)"
+filename = "IKnowWhatImDoing-3.2.0-forge.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3369/234/IKnowWhatImDoing-3.2.0-forge.jar"
+hash-format = "murmur2"
+hash = "662831853"
+
+[update]
+[update.curseforge]
+file-id = 3369234
+project-id = 271492

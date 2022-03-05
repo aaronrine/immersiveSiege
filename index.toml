@@ -151,6 +151,11 @@ hash = "e12756643f1b769178261b80071a778c48d91e69fd36a022623ccb52115aacbc"
 metafile = true
 
 [[files]]
+file = "mods/i-know-what-im-doing.toml"
+hash = "d1a0a284e11fabcb7abc46c5643d4676c1c88b4039d094a7c088ddf3fb2a0685"
+metafile = true
+
+[[files]]
 file = "mods/ichunutil.toml"
 hash = "b420e04d2ed86a63b978aef477c34bbb85454a25302dbce8423d1c5bb8c9b283"
 metafile = true
@@ -333,6 +338,11 @@ metafile = true
 [[files]]
 file = "mods/selene.toml"
 hash = "9f1ba48b8391cc499e92fe689328c052699fb37ff62c765df6a399d27e7e1504"
+metafile = true
+
+[[files]]
+file = "mods/shutup-experimental-settings.toml"
+hash = "ef2d040922a12c9286264fc590d839528286377aaca8e874c853ac001806dfa9"
 metafile = true
 
 [[files]]
